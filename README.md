@@ -1,6 +1,8 @@
 # CS_Source_Aimbot
 A softbot to aim automatically towards other players in counter strike source game.
 
+-Go to release section for the source code.  
+
 How to run: 
 -Download the release v0.1
 
